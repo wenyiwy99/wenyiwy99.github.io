@@ -19,12 +19,12 @@ redirect_from:
 
 Hi, I am Yi Wen. I have been graduated from [School of Mathematicas and Statistics](https://math.csu.edu.cn/), Centre South University (中南大学数学与统计学院) with a bachelor's degree and [Colleage of Computer Science and Technology](https://www.nudt.edu.cn/yssz/jsjxy/index.htm), National University of Defense Technology (国防科技大学计算机学院) with a master's degree, advised by [Professor Xinwang LIU (刘新旺教授)](https://xinwangliu.github.io/). 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes graph-based recommedation and multi-view clustering. I have published more than 10 papers at the top international AI conferences.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.12*: &nbsp;🎉🎉 One Paper is accepted by AAAI 2024. 
+- *2023.09*: &nbsp; One Paper is accepted by TCSVT. 
 
 # 📝 Publications 
 
