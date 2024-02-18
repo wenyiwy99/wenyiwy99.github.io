@@ -45,7 +45,7 @@ Hi, I am Yi Wen. I have been graduated from [School of Mathematicas and Statisti
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/SIMVC-SA.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/EMVGC-LG.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Efficient Multi-View Graph Clustering with Local and Global Structure Preservation](https://arxiv.org/pdf/2309.00024.pdf)
