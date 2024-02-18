@@ -35,11 +35,9 @@ Hi, I am Yi Wen. I have been graduated from [School of Mathematicas and Statisti
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/SIMVC-SA.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Scalable Incomplete Multi-View Clustering with Structure Alignment](https://arxiv.org/pdf/2308.16541.pdf)
+[Scalable Incomplete Multi-View Clustering with Structure Alignment]
 
-**Yi Wen**, Siwei Wang<sup>#</sup>, Ke Liang, Weixuan Liang, Xinhang Wan, Xinwang Liu<sup>#</sup>, Suyuan Liu, Jiyuan Liu, En Zhu.
-
-[**Code**](https://github.com/wenyiwy99/SIMVC-SA) [**PDF**](https://arxiv.org/pdf/2308.16541.pdf)
+**Yi Wen**, Siwei Wang<sup>#</sup>, Ke Liang, Weixuan Liang, Xinhang Wan, Xinwang Liu<sup>#</sup>, Suyuan Liu, Jiyuan Liu, En Zhu. [**Code**](https://github.com/wenyiwy99/SIMVC-SA) [**PDF**](https://arxiv.org/pdf/2308.16541.pdf)
 
 - In order to solve the Anchor-Unaligned Problem for Incomplete Data, a novel alignment module is proposed in this paper to capture the view-specific structure. With the guidance of structure information, the cross-view anchor correspondence mapping can be refined adequately.
 </div>
@@ -48,11 +46,9 @@ Hi, I am Yi Wen. I have been graduated from [School of Mathematicas and Statisti
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/EMVGC-LG.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Efficient Multi-View Graph Clustering with Local and Global Structure Preservation](https://arxiv.org/pdf/2309.00024.pdf)
+[Efficient Multi-View Graph Clustering with Local and Global Structure Preservation]
 
-**Yi Wen**<sup>*</sup>, Suyuan Liu<sup>*</sup>, Xinhang Wan, Siwei Wang, Ke Liang, Xinwang Liu<sup>#</sup>, Xihong Yang, Pei Zhang. 
-
-[**Code**](https://github.com/wenyiwy99/EMVGC-LG) [**PDF**](https://arxiv.org/pdf/2309.00024.pdf)
+**Yi Wen**<sup>*</sup>, Suyuan Liu<sup>*</sup>, Xinhang Wan, Siwei Wang, Ke Liang, Xinwang Liu<sup>#</sup>, Xihong Yang, Pei Zhang. [**Code**](https://github.com/wenyiwy99/EMVGC-LG) [**PDF**](https://arxiv.org/pdf/2309.00024.pdf)
 
 - We design an anchor graph learning framework termed Efficient Multi-View Graph Clustering with Local and Global Structure Preservation (EMVGC-LG). With the proven properties, the proposed anchor graph paradigm can not only capture the global structure between data but also well approximate the local structure.
 </div>
