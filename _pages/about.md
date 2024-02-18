@@ -25,6 +25,10 @@ Hi, I am Yi Wen. I have been graduated from [School of Mathematicas and Statisti
 # 🔥 News
 - *2023.12*: &nbsp;🎉🎉 One Paper is accepted by AAAI 2024. 
 - *2023.09*: &nbsp; One Paper is accepted by TCSVT. 
+- *2023.07*: &nbsp; Three Papers are accepted by ACM MM 2023.
+- *2023.06*: &nbsp; One Paper is accepted by TNNLS.
+- *2023.06*: &nbsp; One Paper is accepted by TKDE.
+- 
 
 # 📝 Publications 
 
