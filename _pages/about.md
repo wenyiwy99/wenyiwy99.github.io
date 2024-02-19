@@ -54,7 +54,17 @@ Hi, I am Yi Wen. I have been graduated from [School of Mathematicas and Statisti
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS</div><img src='images/EMVGC-LG.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Unpaired Multi-View Graph Clustering with Cross-View Structure Matching](https://arxiv.org/pdf/2307.03476.pdf)
+
+**Yi Wen**, Siwei Wang, Qing Liao, Weixuan Liang, Ke Liang, Xinhang Wan, Xinwang Liu<sup>#</sup>.  [**Code**](https://github.com/wenyiwy99/UPMGC-SM) [**PDF**](https://arxiv.org/pdf/2307.03476.pdf)
+
+- We propose a new paradigm for graph-based MVC termed Data-Unpaired Problem (DUP). Our solution to this problem is of great significance and can avoid the strong assumption of the alignment of cross-view data in data collection.
+</div>
+</div>
+- [Sample-level Cross-view Similarity Learning for Incomplete Multi-view Clustering](https://github.com), Suyuan Liu, Junpu Zhang, **Yi Wen**, Xihong Yang, Siwei Wang, Yi Zhang, En Zhu, Chang Tang, Long Zhao, Xinwang Liu<sup>#</sup>, **AAAI 2024**. [**Code**](https://github.com/Tracesource/SCSL) [**PDF**]()
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
