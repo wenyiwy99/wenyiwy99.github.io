@@ -35,7 +35,7 @@ Hi, I am Yi Wen. I have been graduated from [School of Mathematicas and Statisti
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/SIMVC-SA.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<font size = 6>**Scalable Incomplete Multi-View Clustering with Structure Alignment**</font>
+<font size = 4><h5>Scalable Incomplete Multi-View Clustering with Structure Alignment</h5></font>
 
 **Yi Wen**, Siwei Wang<sup>#</sup>, Ke Liang, Weixuan Liang, Xinhang Wan, Xinwang Liu<sup>#</sup>, Suyuan Liu, Jiyuan Liu, En Zhu. [**Code**](https://github.com/wenyiwy99/SIMVC-SA) [**PDF**](https://arxiv.org/pdf/2308.16541.pdf)
 
