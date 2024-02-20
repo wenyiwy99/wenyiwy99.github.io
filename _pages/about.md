@@ -79,16 +79,20 @@ Hi, I am Yi Wen. I have been graduated from [School of Mathematicas and Statisti
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.10* National scholarship, National University of Defense Technology. <a href="https://wenyiwy99.github.io/pdf/tcsvt-yu.pdf">**PDF**</a>
+- *2021.09* National Project on Undergraduate Innovation and Entrepreneurship, Central South University. <a href="https://wenyiwy99.github.io/pdf/tcsvt-yu.pdf">**PDF**</a>
+- *2021.09* Second Prize, National College students Mathematical Modeling Contest, Central South University. <a href="https://wenyiwy99.github.io/pdf/tcsvt-yu.pdf">**PDF**</a>
+- *2021.09* Second Prize, the Chinese Mathematics Competitions, Central South University. <a href="https://wenyiwy99.github.io/pdf/tcsvt-yu.pdf">**PDF**</a>
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - 2024.01 *, Master, National University of Defense Technology, Changsha, China.
+- *2017.09 - 2021.06 *, Undergraduate, Central South University,  Changsha, China.
+- *2014.09 - 2017.06 *, MingDe High School, Changsha, China.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# ✉ Services
+- Journal Reviewer: IEEE Transactions on Knowledge and Data Engineering (TKDE).
+
+- Conference Reviewer: KDD 2024, AAAI 2023, ACM MM 2023.
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
