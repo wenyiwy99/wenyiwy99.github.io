@@ -63,7 +63,13 @@ Hi, I am Yi Wen. I have been graduated from [School of Mathematicas and Statisti
 - We propose a new paradigm for graph-based MVC termed Data-Unpaired Problem (DUP). Our solution to this problem is of great significance and can avoid the strong assumption of the alignment of cross-view data in data collection.
 </div>
 </div>
-- [Sample-level Cross-view Similarity Learning for Incomplete Multi-view Clustering](https://github.com), Suyuan Liu, Junpu Zhang, **Yi Wen**, Xihong Yang, Siwei Wang, Yi Zhang, En Zhu, Chang Tang, Long Zhao, Xinwang Liu<sup>#</sup>, **AAAI 2024**. [**Code**](https://github.com/Tracesource/SCSL) [**PDF**]()
+- **Sample-level Cross-view Similarity Learning for Incomplete Multi-view Clustering**, Suyuan Liu, Junpu Zhang, **Yi Wen**, Xihong Yang, Siwei Wang, Yi Zhang, En Zhu, Chang Tang, Long Zhao, Xinwang Liu<sup>#</sup>, **AAAI 2024**. [**Code**](https://github.com/Tracesource/SCSL) 
+- **How to Construct Corresponding Anchors for Incomplete Multiview Clustering**, Shengju Yu, Siwei Wang, **Yi Wen**, Ziming Wang, Zhigang Luo, En Zhu, Xinwang Liu<sup>#</sup>, **TCSVT**.  [**PDF**]()
+- **Knowledge Graph Contrastive Learning based on Relation-Symmetrical Structure**, Ke Liang, Yue Liu, Sihang Zhou, Wenxuan Tu, **Yi Wen**, Xihong Yang, Xiangjun Dong, Xinwang Liu<sup>#</sup>, **TKDE**.  [**PDF**]()
+- **DealMVC: Dual Contrastive Calibration for Multi-view Clustering**,Xihong Yang, Jiaqi Jin, Siwei Wang, Ke Liang, Yue Liu, \textbf{Yi Wen}, Suyuan Liu, Sihang Zhou, Xinwang Liu<sup>#</sup>, En Zhu<sup>#</sup>, **ACM MM 2023**. [**Code**]() [**PDF**]()
+- **Continual Multi-view Clustering**, Xinhang Wan, Jiyuan Liu, Weixuan Liang, Xinwang Liu, \textbf{Yi Wen}, En Zhu<sup>#</sup>, **ACM MM 2022**. [**Code**]() [**PDF**]()
+
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
