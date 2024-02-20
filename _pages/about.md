@@ -34,7 +34,7 @@ Hi, I am Yi Wen. I have been graduated from [School of Mathematicas and Statisti
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/SIMVC-SA.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<font size = 3 color = Black><h5>Scalable Incomplete Multi-View Clustering with Structure Alignment</h5></font>
+<font size = 3><h5>Scalable Incomplete Multi-View Clustering with Structure Alignment</h5></font>
 
 **Yi Wen**, Siwei Wang<sup>#</sup>, Ke Liang, Weixuan Liang, Xinhang Wan, Xinwang Liu<sup>#</sup>, Suyuan Liu, Jiyuan Liu, En Zhu. [**Code**](https://github.com/wenyiwy99/SIMVC-SA) [**PDF**](https://arxiv.org/pdf/2308.16541.pdf)
 
@@ -45,7 +45,7 @@ Hi, I am Yi Wen. I have been graduated from [School of Mathematicas and Statisti
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/EMVGC-LG.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<h4>Efficient Multi-View Graph Clustering with Local and Global Structure Preservation</h4>
+<font size = 3><h5>Efficient Multi-View Graph Clustering with Local and Global Structure Preservation</h5></font>
 
 **Yi Wen**<sup>*</sup>, Suyuan Liu<sup>*</sup>, Xinhang Wan, Siwei Wang, Ke Liang, Xinwang Liu<sup>#</sup>, Xihong Yang, Pei Zhang. [**Code**](https://github.com/wenyiwy99/EMVGC-LG) [**PDF**](https://arxiv.org/pdf/2309.00024.pdf)
 
@@ -56,7 +56,7 @@ Hi, I am Yi Wen. I have been graduated from [School of Mathematicas and Statisti
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS</div><img src='images/EMVGC-LG.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Unpaired Multi-View Graph Clustering with Cross-View Structure Matching](https://arxiv.org/pdf/2307.03476.pdf)
+<font size = 3><h5>Unpaired Multi-View Graph Clustering with Cross-View Structure Matching</h5></font>
 
 **Yi Wen**, Siwei Wang, Qing Liao, Weixuan Liang, Ke Liang, Xinhang Wan, Xinwang Liu<sup>#</sup>.  [**Code**](https://github.com/wenyiwy99/UPMGC-SM) [**PDF**](https://arxiv.org/pdf/2307.03476.pdf)
 
@@ -66,8 +66,8 @@ Hi, I am Yi Wen. I have been graduated from [School of Mathematicas and Statisti
 - **Sample-level Cross-view Similarity Learning for Incomplete Multi-view Clustering**, Suyuan Liu, Junpu Zhang, **Yi Wen**, Xihong Yang, Siwei Wang, Yi Zhang, En Zhu, Chang Tang, Long Zhao, Xinwang Liu<sup>#</sup>, **AAAI 2024**. [**Code**](https://github.com/Tracesource/SCSL) 
 - **How to Construct Corresponding Anchors for Incomplete Multiview Clustering**, Shengju Yu, Siwei Wang, **Yi Wen**, Ziming Wang, Zhigang Luo, En Zhu, Xinwang Liu<sup>#</sup>, **TCSVT**.  [**PDF**]()
 - **Knowledge Graph Contrastive Learning based on Relation-Symmetrical Structure**, Ke Liang, Yue Liu, Sihang Zhou, Wenxuan Tu, **Yi Wen**, Xihong Yang, Xiangjun Dong, Xinwang Liu<sup>#</sup>, **TKDE**.  [**PDF**]()
-- **DealMVC: Dual Contrastive Calibration for Multi-view Clustering**,Xihong Yang, Jiaqi Jin, Siwei Wang, Ke Liang, Yue Liu, \textbf{Yi Wen}, Suyuan Liu, Sihang Zhou, Xinwang Liu<sup>#</sup>, En Zhu<sup>#</sup>, **ACM MM 2023**. [**Code**]() [**PDF**]()
-- **Continual Multi-view Clustering**, Xinhang Wan, Jiyuan Liu, Weixuan Liang, Xinwang Liu, \textbf{Yi Wen}, En Zhu<sup>#</sup>, **ACM MM 2022**. [**Code**]() [**PDF**]()
+- **DealMVC: Dual Contrastive Calibration for Multi-view Clustering**,Xihong Yang, Jiaqi Jin, Siwei Wang, Ke Liang, Yue Liu, **Yi Wen**, Suyuan Liu, Sihang Zhou, Xinwang Liu<sup>#</sup>, En Zhu<sup>#</sup>, **ACM MM 2023**. [**Code**]() [**PDF**]()
+- **Continual Multi-view Clustering**, Xinhang Wan, Jiyuan Liu, Weixuan Liang, Xinwang Liu, **Yi Wen**, En Zhu<sup>#</sup>, **ACM MM 2022**. [**Code**]() [**PDF**]()
 
 
 
