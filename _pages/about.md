@@ -11,17 +11,3 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 {% include_relative include/intro.md %}
-
-{% include_relative include/news.md %}
-
-{% include_relative include/pub.md %}
-
-{% include_relative include/pub_short.md %}
-
-{% include_relative include/honers.md %}
-
-{% include_relative include/edu.md %}
-
-{% include_relative include/services.md %}
-
-{% include_relative include/homepage.md %}
