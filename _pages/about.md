@@ -53,7 +53,7 @@ Hi, I am Yi Wen. I have been graduated from [School of Mathematicas and Statisti
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS</div><img src='images/EMVGC-LG.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS</div><img src='images/UPMGC-GM.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <font size = 3><h5>Unpaired Multi-View Graph Clustering with Cross-View Structure Matching</h5></font>
