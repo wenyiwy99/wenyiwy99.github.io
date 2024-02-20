@@ -66,7 +66,7 @@ Hi, I am Yi Wen. I have been graduated from [School of Mathematicas and Statisti
 
 - **Sample-level Cross-view Similarity Learning for Incomplete Multi-view Clustering**, Suyuan Liu, Junpu Zhang, **Yi Wen**, Xihong Yang, Siwei Wang, Yi Zhang, En Zhu, Chang Tang, Long Zhao, Xinwang Liu<sup>#</sup>, **AAAI 2024**. [**Code**](https://github.com/Tracesource/SCSL) 
 
-- **How to Construct Corresponding Anchors for Incomplete Multiview Clustering**, Shengju Yu, Siwei Wang, **Yi Wen**, Ziming Wang, Zhigang Luo, En Zhu, Xinwang Liu<sup>#</sup>, **TCSVT**.  <a href="../pdf/tcsvt-yu.pdf">**PDF**</a>
+- **How to Construct Corresponding Anchors for Incomplete Multiview Clustering**, Shengju Yu, Siwei Wang, **Yi Wen**, Ziming Wang, Zhigang Luo, En Zhu, Xinwang Liu<sup>#</sup>, **TCSVT**.  <a href="https://wenyiwy99.github.io/blob/main/pdf/tcsvt-yu.pdf">**PDF**</a>
 
 - **Knowledge Graph Contrastive Learning based on Relation-Symmetrical Structure**, Ke Liang, Yue Liu, Sihang Zhou, Wenxuan Tu, **Yi Wen**, Xihong Yang, Xiangjun Dong, Xinwang Liu<sup>#</sup>, **TKDE**.  <a src="pdf/tkde-liang.pdf">**PDF**</a>
   
