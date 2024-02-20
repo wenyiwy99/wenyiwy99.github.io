@@ -85,9 +85,9 @@ Hi, I am Yi Wen. I have been graduated from [School of Mathematicas and Statisti
 - *2021.09* Second Prize, the Chinese Mathematics Competitions, Central South University. <a href="https://wenyiwy99.github.io/pdf/Mathematics.pdf">**PDF**</a>
 
 # 📖 Educations
-- *2021.09 - 2024.01 *, Master, National University of Defense Technology, Changsha, China.
-- *2017.09 - 2021.06 *, Undergraduate, Central South University,  Changsha, China.
-- *2014.09 - 2017.06 *, MingDe High School, Changsha, China.
+- *2021.09 - 2024.01*, Master, National University of Defense Technology, Changsha, China.
+- *2017.09 - 2021.06*, Undergraduate, Central South University,  Changsha, China.
+- *2014.09 - 2017.06*, MingDe High School, Changsha, China.
 
 # ✉ Services
 - Journal Reviewer: IEEE Transactions on Knowledge and Data Engineering (TKDE).
