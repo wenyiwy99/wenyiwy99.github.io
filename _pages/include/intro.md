@@ -3,4 +3,4 @@ Hi, I am Yi Wen. I have been graduated from [School of Mathematicas and Statisti
 
 **Research Interests**: Graph-based recommedation, multi-view learning, clustering. 
 
-<p><i class="fas fa-download pr-1 fa-fw"></i> Download my <a href=/uploads/demo_resume.pdf target=_blank>resumé</a>.</p>
+<p><i class="fas fa-download pr-1 fa-fw"></i> Download my <a href="https://wenyiwy99.github.io/pdf/WY_CV.pdf" target=_blank>resumé</a>.</p>
