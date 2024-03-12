@@ -1,3 +1,6 @@
+- **One-step Multi-view Clustering with Diverse Representation**, Xinhang Wan, Jiyuan Liu, Xinbiao Gao, Xinwang Liu<sup>#</sup>, Siwei Wang, **Yi Wen**, En Zhu<sup>#</sup>, **TNNLS**. [**Code**](https://github.com/wanxinhang/OMVCDR) [**PDF**](https://arxiv.org/pdf/2306.05437.pdf)
+
+
 - **Sample-level Cross-view Similarity Learning for Incomplete Multi-view Clustering**, Suyuan Liu, Junpu Zhang, **Yi Wen**, Xihong Yang, Siwei Wang, Yi Zhang, En Zhu, Chang Tang, Long Zhao, Xinwang Liu<sup>#</sup>, **AAAI 2024**. [**Code**](https://github.com/Tracesource/SCSL) 
 
 - **How to Construct Corresponding Anchors for Incomplete Multiview Clustering**, Shengju Yu, Siwei Wang, **Yi Wen**, Ziming Wang, Zhigang Luo, En Zhu, Xinwang Liu<sup>#</sup>, **TCSVT**.  <a href="https://wenyiwy99.github.io/pdf/tcsvt-yu.pdf">**PDF**</a>
