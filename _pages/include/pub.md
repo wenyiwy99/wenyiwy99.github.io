@@ -6,7 +6,7 @@
 
 <font size = 3><h5>Measure Domain's Gap: A Similar Domain Selection Principle for Multi-Domain Recommendation</h5></font>
 
-**Yi Wen**, Yue Liu, Derong Xu, Huishi Luo, Pengyue Jia, Yiqing Wu, Siwei Wang, Ke Liang, Maolin Wang, Yiqi Wang, Fuzhen Zhuang<sup>#</sup>, Xiangyu Zhao<sup>#</sup>. [**Code**](https://github.com/wenyiwy99/SIMVC-SA) [**PDF**](https://arxiv.org/pdf/2308.16541.pdf)
+**Yi Wen**, Yue Liu, Derong Xu, Huishi Luo, Pengyue Jia, Yiqing Wu, Siwei Wang, Ke Liang, Maolin Wang, Yiqi Wang, Fuzhen Zhuang<sup>#</sup>, Xiangyu Zhao<sup>#</sup>. [**Code**](https://github.com/wenyiwy99/SDSP) [**PDF**]()
 
 - We introduce a domain selection principle (SDSP), leveraging both the supervised signals and the unsupervised distance measure to select beneficial domains. Besides, SDSP can be integrated into existing MDR methods to improve their performance.
 </div>
