@@ -1,4 +1,4 @@
-# :incoming_envelope: Services
+# ✉️ Services
 
 - Journal Reviewer: IEEE T-PAMI, IEEE T-NNLE, IEEE T-KDE.
 
