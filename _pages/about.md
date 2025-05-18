@@ -15,7 +15,7 @@ redirect_from:
 {% include_relative include/news.md %}
 
 {% include_relative include/pub.md %}
-
+n
 {% include_relative include/pub_short.md %}
 
 {% include_relative include/honors.md %}
@@ -24,6 +24,6 @@ redirect_from:
 
 {% include_relative include/services.md %}
 
-{% include_relative include/Interships.md %}
+{% include_relative include/Internships.md %}
 
 {% include_relative include/homepage.md %}
