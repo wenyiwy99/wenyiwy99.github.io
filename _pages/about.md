@@ -24,4 +24,6 @@ redirect_from:
 
 {% include_relative include/services.md %}
 
+{% include_relative include/Interships.md %}
+
 {% include_relative include/homepage.md %}
