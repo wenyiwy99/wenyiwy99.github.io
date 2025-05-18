@@ -12,7 +12,7 @@ redirect_from:
 
 {% include_relative include/intro.md %}
 
-
+{% include_relative include/news.md %}
 
 {% include_relative include/pub.md %}
 
@@ -24,6 +24,6 @@ redirect_from:
 
 {% include_relative include/services.md %}
 
-{% include_relative include/Internships.md %}
+
 
 {% include_relative include/homepage.md %}
