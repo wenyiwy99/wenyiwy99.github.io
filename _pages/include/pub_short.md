@@ -1,3 +1,5 @@
+- **A Survey of Personalization: From RAG to Agent**, Xiaopeng Li, Pengyue Jia, Derong Xu, **Yi Wen**, Yingyi Zhang, Wenlin Zhang, Wanyu Wang, Yichao Wang, Zhaocheng Du, Xiangyang Li, Yong Liu, Huifeng Guo, Ruiming Tang, Xiangyu Zhao, **Arxiv 2025**. [**Github**](https://github.com/Applied-Machine-Learning-Lab/Awesome-Personalized-RAG-Agent) [**PDF**](https://arxiv.org/abs/2504.10147)
+
 - **Decouple then Classify: A Dynamic Multi-view Labeling Strategy with Shared and Specific Information**, Xinhang Wan, Jiyuan Liu, Xinwang Liu<sup>#</sup>, **Yi Wen**, Hao Yu, Siwei Wang, Shengju Yu, Tianjiao Wan, Jun Wang, En Zhu<sup>#</sup>, **ICML 2024**. [**Code**](https://github.com/wanxinhang/ICML2024_decouple_then_classify) [**PDF**](https://icml.cc/virtual/2024/poster/33857)
 
 - **One-step Multi-view Clustering with Diverse Representation**, Xinhang Wan, Jiyuan Liu, Xinbiao Gan, Xinwang Liu<sup>#</sup>, Siwei Wang, **Yi Wen**, Tianjiao Wan, En Zhu<sup>#</sup>, **TNNLS**. [**Code**](https://github.com/wanxinhang/OMVCDR) [**PDF**](https://arxiv.org/pdf/2306.05437.pdf)
