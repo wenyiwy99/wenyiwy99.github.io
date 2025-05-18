@@ -3,7 +3,6 @@
 (<sup>*</sup> indicates equal contribution;  <sup>#</sup> indicates corresponding authorship.) 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/SDSP.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 <font size = 3><h5>Measure Domain's Gap: A Similar Domain Selection Principle for Multi-Domain Recommendation</h5></font>
 
 **Yi Wen**, Yue Liu, Derong Xu, Huishi Luo, Pengyue Jia, Yiqing Wu, Siwei Wang, Ke Liang, Maolin Wang, Yiqi Wang, Fuzhen Zhuang<sup>#</sup>, Xiangyu Zhao<sup>#</sup>. [**Code**](https://github.com/wenyiwy99/SDSP) [**PDF**]()
