@@ -11,7 +11,7 @@
 
 <div class="scrollable">
   <ul>
-    <li><strong>2026.10</strong>: &nbsp;I'm selected as a Top Reviewer of NeurIPS 2026.</li>
+    <li><strong>2026.10</strong>: &nbsp;🎉🎉 I'm selected as a Top Reviewer of NeurIPS 2026.</li>
     <li><strong>2026.09</strong>: &nbsp;🎉🎉 Three Papers are accepted by NeurIPS 2026.</li>
     <li><strong>2025.09</strong>: &nbsp;I'm honored to receive the Research Tuition Scholarship (RTS) and Outstanding Academic Performance Award (OAPA) granted by CityU HK.</li>
     <li><strong>2025.05</strong>: &nbsp;One Paper is accepted by KDD.</li>
