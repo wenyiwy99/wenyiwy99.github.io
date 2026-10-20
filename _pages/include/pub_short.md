@@ -1,7 +1,7 @@
 <style>
   .scrollable-pub {
     position: relative;
-    max-height: 330px;
+    max-height: 460px;
     overflow-y: scroll;
   }
 </style>
@@ -52,7 +52,7 @@
     if (!box) return;
     function fit() {
       var items = box.querySelectorAll(':scope > ul > li');
-      if (items.length > 5) box.style.maxHeight = items[5].offsetTop + 'px';
+      if (items.length > 7) box.style.maxHeight = items[7].offsetTop + 'px';
     }
     fit();
     window.addEventListener('load', fit);
