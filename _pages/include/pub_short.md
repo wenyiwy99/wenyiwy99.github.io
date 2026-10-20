@@ -1,3 +1,13 @@
+<style>
+  .scrollable-pub {
+    position: relative;
+    max-height: 330px;
+    overflow-y: scroll;
+  }
+</style>
+
+<div class="scrollable-pub" markdown="1">
+
 - **GeoRouter: Dynamic Paradigm Routing for Worldwide Image Geolocalization**, Pengyue Jia, Derong Xu, Yingyi Zhang, Xiaopeng Li, Wenlin Zhang, **Yi Wen**, Yuanshao Zhu, Xiangyu Zhao, **NeurIPS 2026**.
 
 - **Bridging Personalization and AI: From RAG to Agent**, Pengyue Jia, Xiaopeng Li, Derong Xu, **Yi Wen**, Yingyi Zhang, Wenlin Zhang, Wanyu Wang, Yichao Wang, Yong Liu, Xiangyu Zhao, **SIGIR 2026**.
@@ -33,3 +43,19 @@
 - **Auto-weighted Multi-view Clustering for Large-scale Data**, Xinhang Wan, Xinwang Liu, Jiyuan Liu, Siwei Wang, **Yi Wen**, Weixuan Liang, En Zhu, Zhe Liu, Lu Zhou, **AAAI 2023**.
 
 - **Continual Multi-view Clustering**, Xinhang Wan, Jiyuan Liu, Weixuan Liang, Xinwang Liu, **Yi Wen**, En Zhu, **ACM MM 2022**.
+
+</div>
+
+<script>
+  (function () {
+    var box = document.querySelector('.scrollable-pub');
+    if (!box) return;
+    function fit() {
+      var items = box.querySelectorAll(':scope > ul > li');
+      if (items.length > 5) box.style.maxHeight = items[5].offsetTop + 'px';
+    }
+    fit();
+    window.addEventListener('load', fit);
+    window.addEventListener('resize', fit);
+  })();
+</script>
