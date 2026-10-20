@@ -1,6 +1,26 @@
 # 📝 Publications 
 
 (<sup>*</sup> indicates equal contribution;  <sup>#</sup> indicates corresponding authorship.) 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/MemoType.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<font size = 3><h5>Memory Type Varies: Empowering LLM Agents for Long-Term Memory with Diverse Strategies</h5></font>
+
+**Yi Wen**, Derong Xu, Pengyue Jia, Yichao Wang<sup>#</sup>, Yingyi Zhang, Maolin Wang, Junyi Li, Wenlin Zhang, Xiaopeng Li, Yong Liu, Xiangyu Zhao<sup>#</sup>. [**Code**](https://github.com/wenyiwy99/MemoType) [**PDF**](https://arxiv.org/pdf/2610.11573)
+
+- We construct TriMEM, a memory multi-class dataset with Episodic, Personal Semantic, and General Semantic memory annotations, and propose MemoType, which routes each memory and query to its type and applies a tailored retrieval strategy, achieving up to 16.18% improvement in Recall@1.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/TrajEvolve.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<font size = 3><h5>TrajEvolve: Trajectory Evolution for Reinforcement Learning with Hindsight Credit Assignment</h5></font>
+
+**Yi Wen**<sup>*</sup>, Hao Chen<sup>*</sup>, Wanyu Wang, Maolin Wang, Pengyue Jia, Derong Xu, Huize Tan, Yingyi Zhang, Wenlin Zhang, Weihong Luo, Xiku Du, Xiangyu Zhao<sup>#</sup>. [**Code**](https://github.com/wenyiwy99/TrajEvolve) [**PDF**](https://wenyiwy99.github.io/)
+
+- We propose TrajEvolve, which determines the necessary steps of successful trajectories via hindsight verification, trains a step-level credit discriminator, and evolves trajectories during RL by pruning redundancy, correcting format errors, and rolling back action errors.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/SDSP.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <font size = 3><h5>Measure Domain's Gap: A Similar Domain Selection Principle for Multi-Domain Recommendation</h5></font>
