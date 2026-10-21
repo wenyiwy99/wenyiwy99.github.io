@@ -6,4 +6,6 @@ I have graduated from [School of Mathematics and Statistics](https://math.csu.ed
 
 **Research Interests**: Agentic RL, Agentic Memory, Recommendation, Multi-view Clustering. 
 
+🔍 I'm currently looking for internships related to **agent training** or **agent harness**. If you have a suitable position, please feel free to contact me at wenyiwy2022@163.com!
+
 <p><i class="fas fa-download pr-1 fa-fw"></i> Download my <a href="https://wenyiwy99.github.io/pdf/WY_CV.pdf" target=_blank>resumé</a>.</p>

@@ -7,7 +7,7 @@
 
 **Yi Wen**<sup>*</sup>, Hao Chen<sup>*</sup>, Wanyu Wang, Maolin Wang, Pengyue Jia, Derong Xu, Huize Tan, Yingyi Zhang, Wenlin Zhang, Weihong Luo, Xiku Du, Xiangyu Zhao<sup>#</sup>. [**PDF**](https://arxiv.org/pdf/2610.28060) [**Code**](https://github.com/wenyiwy99/TrajEvolve) <button type="button" class="bib-toggle" aria-expanded="false" onclick="toggleBib(this, 'bib-trajevolve')">Cite</button>
 
-<div class="bibtex-box" id="bib-trajevolve" hidden="hidden"><button type="button" class="bib-copy" onclick="copyBib(this)">Copy</button><pre><code>@misc{wen2026trajevolvetrajectoryevolutionreinforcement,
+<div class="bibtex-box" id="bib-trajevolve" hidden="hidden"><button type="button" class="bib-copy" onclick="copyBib(this)">Copy</button><pre><code>@misc{wen2026trajevolve,
       title={TrajEvolve: Trajectory Evolution for Reinforcement Learning with Hindsight Credit Assignment},
       author={Yi Wen and Hao Chen and Wanyu Wang and Maolin Wang and Pengyue Jia and Derong Xu and Huize Tan and Yingyi Zhang and Wenlin Zhang and Weihong Luo and Xiku Du and Xiangyu Zhao},
       year={2026},
